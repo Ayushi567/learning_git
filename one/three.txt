@@ -1,3 +1,8 @@
-new branch
+commands for branches
 
-new error message
+1. git branch
+2. git branch <branchname>
+3. git switch <branchname>
+4. git checkout <branchname>
+5 git merge 
+

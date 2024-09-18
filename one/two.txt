@@ -1,4 +1,10 @@
-hello
-this is 
+some command used to push the code 
 
-created new branch
+
+1. (git init)-----initiate repo
+2. (git status)----check current status
+3. (git add.) ------ add files to stage 
+4. (git commit -m "name")------commit changes
+5. (git push) ---- push the code
+6. (git branch -m <oldname> <new name>)-rename a branch
+7. (git branch -d <branch> ) -------delete a branch
